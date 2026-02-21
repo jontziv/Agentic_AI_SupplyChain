@@ -1,0 +1,29 @@
+============================================================
+INVENTORY OPTIMIZATION SUMMARY REPORT
+============================================================
+Generated: 2026-02-21 20:00:20
+Service Level: 95.0%
+Z-Score: 1.65
+
+OVERALL STATISTICS:
+Total SKU-month combinations: 9
+Unique SKUs: 3
+
+SUMMARY BY SKU:
+SKU_A:
+  Annual Forecast: 6,233 units
+  Avg Reorder Point: 736 units
+  Avg Safety Stock: 329 units
+  EOQ: 1,408 units
+
+SKU_B:
+  Annual Forecast: 10,011 units
+  Avg Reorder Point: 1,143 units
+  Avg Safety Stock: 300 units
+  EOQ: 1,786 units
+
+SKU_C:
+  Annual Forecast: 3,725 units
+  Avg Reorder Point: 315 units
+  Avg Safety Stock: 142 units
+  EOQ: 1,091 units
